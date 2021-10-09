@@ -1,0 +1,53 @@
+body {
+ 
+    }
+
+    .principal {
+        width: 300px;
+        height: 500px;
+        border-radius: 4px;
+        border-color: black;
+        text-size-adjust: center;
+
+    
+    }
+.cabeçalho {
+    text-align: center;
+  
+}
+
+div {
+    text-align: center;
+}
+
+.processo {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 24px;
+    border-radius:5px;
+    padding: 10px 70px;
+    display: inline-block;
+
+}
+
+.planoAnual {
+    text-align: center;
+   background-color: aquamarine;
+   padding: 5px 10px;
+   border-radius: 4px;
+}
+
+p {
+    font-size: 16px;
+    text-justify: center;
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+            }
+
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
